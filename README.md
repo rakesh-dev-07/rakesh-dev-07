@@ -33,8 +33,8 @@ Software Engineer @ Paytm • Passionate about building clean, performant web ap
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [your-linkedin](#)  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [visit profile](#)  
+- 📧 Email: rakeshdev@paytm.com  
 - 💻 GitHub: [github.com/rakesh-dev-07](https://github.com/rakesh-dev-07)
 
 ---
