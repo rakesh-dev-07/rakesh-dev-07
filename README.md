@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Rakesh 👋
 
-<!--
-**rakesh-dev-07/rakesh-dev-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer @ Paytm • Passionate about building clean, performant web apps • Exploring new tech & solving real problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Toolkit
+
+| Frontend          | Backend / DevOps     | Miscellaneous         |
+|-------------------|-----------------------|------------------------|
+| JavaScript / TypeScript | Node.js / Express       | Git / GitHub           |
+| React / Next.js   | REST APIs & Microservices | Docker / CI-CD         |
+| HTML5 & CSS3 (Flexbox, Grid) | SQL & NoSQL Databases    | Testing (Jest / Mocha)  |
+| Responsive Design | Cloud (AWS / GCP Basics) | Performance Optimization |
+
+---
+
+## 🔭 What I’m Working On
+
+- Launching a new feature at Paytm to streamline transaction UX  
+- Rebuilding a personal portfolio site to use Next.js + Tailwind  
+- Contributing to open-source projects focused on accessible frontend components  
+
+---
+
+## 🌱 Learning
+
+- Better state management patterns (Redux / Recoil / Zustand)  
+- Web performance & progressive web app (PWA) improvements  
+- DevOps basics: CI/CD pipelines, Docker, Kubernetes  
+
+---
+
+## 📫 Get In Touch
+
+- 💼 LinkedIn: [your-linkedin](#)  
+- 📧 Email: your.email@example.com  
+- 💻 GitHub: [github.com/rakesh-dev-07](https://github.com/rakesh-dev-07)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
+
